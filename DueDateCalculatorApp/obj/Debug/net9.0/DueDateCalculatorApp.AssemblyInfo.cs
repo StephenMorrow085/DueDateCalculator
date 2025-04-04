@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DueDateCalculatorApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2612d175303b6336aab2141e8a57be140421ca7e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d03582bdab3e573cf146c6a569be365093a36697")]
 [assembly: System.Reflection.AssemblyProductAttribute("DueDateCalculatorApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DueDateCalculatorApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

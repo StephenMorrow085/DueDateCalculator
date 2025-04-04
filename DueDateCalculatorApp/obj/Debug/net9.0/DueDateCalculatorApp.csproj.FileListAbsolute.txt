@@ -156,3 +156,4 @@ C:\Users\smorr\OneDrive\Documents\CODE\DueDateCalculator\DueDateCalculatorApp\ob
 C:\Users\smorr\OneDrive\Documents\CODE\DueDateCalculator\DueDateCalculatorApp\obj\Debug\net9.0\DueDateCalculatorApp.pdb
 C:\Users\smorr\OneDrive\Documents\CODE\DueDateCalculator\DueDateCalculatorApp\obj\Debug\net9.0\DueDateCalculatorApp.genruntimeconfig.cache
 C:\Users\smorr\OneDrive\Documents\CODE\DueDateCalculator\DueDateCalculatorApp\obj\Debug\net9.0\ref\DueDateCalculatorApp.dll
+C:\Users\smorr\OneDrive\Documents\CODE\DueDateCalculator\DueDateCalculatorApp\obj\Debug\net9.0\DueDateCalculatorApp.sourcelink.json
